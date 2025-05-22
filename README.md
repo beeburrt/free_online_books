@@ -4,3 +4,4 @@
 
 [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 
+[Python Programming Exercises, Gently Explained](https://inventwithpython.com/pythongently/)
