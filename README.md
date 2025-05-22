@@ -8,3 +8,4 @@
 
 [Dive into Systems](https://diveintosystems.org/) by Suzanne J. Matthews, Tia Newhall, and Kevin C. Webb
 
+[I Love Ruby](https://i-love-ruby.gitlab.io/) by Karthikeyan A K
