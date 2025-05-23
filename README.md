@@ -6,6 +6,10 @@
 
 [Python Programming Exercises, Gently Explained](https://inventwithpython.com/pythongently/) by Al Sweigart
 
+[Exploring JavaScript](https://exploringjs.com/js/index.html) by Dr. Axel Rauschmayer
+
+[Exploring TypeScript](https://exploringjs.com/ts/) by Dr. Axel Rauschmayer
+
 [Dive into Systems](https://diveintosystems.org/) by Suzanne J. Matthews, Tia Newhall, and Kevin C. Webb
 
 [I Love Ruby](https://i-love-ruby.gitlab.io/) by Karthikeyan A K
