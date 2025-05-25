@@ -1,5 +1,7 @@
 # Free online books
 
+[The Linux Command Line](https://linuxcommand.org/tlcl.php) by William Shotts
+
 [Computer Graphics from Scratch](https://www.gabrielgambetta.com/computer-graphics-from-scratch/) by Grabriel Gambetta
 
 [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) by Al Sweigart
