@@ -4,6 +4,8 @@
 
 [Eloquent JavaScript](https://eloquentjavascript.net/) by Marijn Haverbeke
 
+[Hacks, Leaks, and Revelations](https://hacksandleaks.com/) by Micah Lee
+
 [Computer Graphics from Scratch](https://www.gabrielgambetta.com/computer-graphics-from-scratch/) by Grabriel Gambetta
 
 [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) by Al Sweigart
