@@ -15,3 +15,5 @@
 [I Love Ruby](https://i-love-ruby.gitlab.io/) by Karthikeyan A K
 
 [Beej's Guides](https://beej.us/guide/) by Brian “Beej Jorgensen” Hall
+
+[Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/) by Remzi H. Arpaci-Dusseau and  Andrea C. Arpaci-Dusseau
