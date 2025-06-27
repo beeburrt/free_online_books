@@ -25,3 +25,5 @@
 [Operating Systems: Three Easy Pieces (https://pages.cs.wisc.edu/~remzi/OSTEP/)](https://pages.cs.wisc.edu/~remzi/OSTEP/) by Remzi H. Arpaci-Dusseau and  Andrea C. Arpaci-Dusseau
 
 [Linux Device Drivers, Second Edition (https://lwn.net/Kernel/LDD2/)](https://lwn.net/Kernel/LDD2/) by Alessandro Rubini and Jonathan Corbet
+
+[Game Programming Patterns (https://gameprogrammingpatterns.com/contents.html)](https://gameprogrammingpatterns.com/contents.html) by Robert Nystrom
