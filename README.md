@@ -27,3 +27,5 @@
 [Linux Device Drivers, Second Edition (https://lwn.net/Kernel/LDD2/)](https://lwn.net/Kernel/LDD2/) by Alessandro Rubini and Jonathan Corbet
 
 [Game Programming Patterns (https://gameprogrammingpatterns.com/contents.html)](https://gameprogrammingpatterns.com/contents.html) by Robert Nystrom
+
+[Crafting Interpreters (https://craftinginterpreters.com/contents.html)](https://craftinginterpreters.com/contents.html) by Robert Nystrom
