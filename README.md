@@ -29,3 +29,11 @@
 [Game Programming Patterns (https://gameprogrammingpatterns.com/contents.html)](https://gameprogrammingpatterns.com/contents.html) by Robert Nystrom
 
 [Crafting Interpreters (https://craftinginterpreters.com/contents.html)](https://craftinginterpreters.com/contents.html) by Robert Nystrom
+
+[High Performance Browser Networking (https://hpbn.co)](https://hpbn.co) by Ilya Grigorik
+
+[Learn You a Haskell for Great Good! (https://learnyouahaskell.github.io/chapters.html)](https://learnyouahaskell.github.io/chapters.html) by Miran Lipovača
+
+[Introduction to Zig (https://pedropark99.github.io/zig-book/)](https://pedropark99.github.io/zig-book/) by Pedro Duarte Faria
+
+[Structure and Interpretation of Computer Programs (https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/full-text/book/book.html)](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/full-text/book/book.html) by Harold Abelson and Gerald Jay Sussman
