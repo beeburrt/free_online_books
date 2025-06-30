@@ -37,3 +37,5 @@
 [Introduction to Zig (https://pedropark99.github.io/zig-book/)](https://pedropark99.github.io/zig-book/) by Pedro Duarte Faria
 
 [Structure and Interpretation of Computer Programs (https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/full-text/book/book.html)](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/full-text/book/book.html) by Harold Abelson and Gerald Jay Sussman
+
+[The Rust Programming Language (https://doc.rust-lang.org/book/)](https://doc.rust-lang.org/book/) by Steve Klabnik, Carol Nichols, and Chris Krycho
