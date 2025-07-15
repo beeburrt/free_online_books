@@ -1,4 +1,4 @@
-# Free online books
+# A curated collection of free online books
 
 [The Linux Command Line (https://linuxcommand.org/tlcl.php)](https://linuxcommand.org/tlcl.php) by William Shotts
 
@@ -39,3 +39,5 @@
 [Structure and Interpretation of Computer Programs (https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/full-text/book/book.html)](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/full-text/book/book.html) by Harold Abelson and Gerald Jay Sussman
 
 [The Rust Programming Language (https://doc.rust-lang.org/book/)](https://doc.rust-lang.org/book/) by Steve Klabnik, Carol Nichols, and Chris Krycho
+
+[Mastering Roda (https://fiachetti.gitlab.io/mastering-roda/)](https://fiachetti.gitlab.io/mastering-roda/) by Federico Iachetti
