@@ -41,3 +41,5 @@
 [The Rust Programming Language (https://doc.rust-lang.org/book/)](https://doc.rust-lang.org/book/) by Steve Klabnik, Carol Nichols, and Chris Krycho
 
 [Mastering Roda (https://fiachetti.gitlab.io/mastering-roda/)](https://fiachetti.gitlab.io/mastering-roda/) by Federico Iachetti
+
+[Data Science at the Command Line (https://jeroenjanssens.com/dsatcl/)](https://jeroenjanssens.com/dsatcl/) by Jeroen Janssens
